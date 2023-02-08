@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"bank_heranca_abstrata","l":"conta"}];updateSearchResults();
