@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Puglins Eclipse
+.metadata
+
+# Project
+.project
+
 # Log file
 *.log
 
